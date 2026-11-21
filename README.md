@@ -63,6 +63,7 @@ To regenerate the Xcode project from `project.yml` instead, install [XcodeGen](h
 ## Attribution
 
 I came up with ResponseNYC after noticing that New Yorkers who tag the mayor online get their potholes fixed in hours, while ordinary 311 reports take days. I designed how it works — the borough counters, the promises tracker, the requirement that every claim links to the city's own source — made the artwork, and ran the user testing that led to the onboarding walkthrough. The code was written by Claude, Anthropic's AI. I directed the project; I didn't write the implementation myself.
+
 ## Licence
 
 MIT — see [LICENSE](LICENSE).
