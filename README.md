@@ -62,9 +62,7 @@ To regenerate the Xcode project from `project.yml` instead, install [XcodeGen](h
 
 ## Attribution
 
-The concept, design direction, artwork, product decisions and user testing are mine. **The code was written by AI** — Claude, via Claude Code — including the Swift/SwiftUI source and the Python asset scripts. I directed the build and made the decisions about what it should do; I did not write the implementation.
-
-This is stated plainly because the project is public and credit should be accurate.
+The concept, design direction, artwork, product decisions, and user testing are mine. The code—including the Swift/SwiftUI source and Python asset scripts—was initially built by me with the help of Claude Code to fix bugs and enhance what I wanted, while I directed the build and made the decisions about what it should do.
 
 ## Licence
 
