@@ -62,8 +62,7 @@ To regenerate the Xcode project from `project.yml` instead, install [XcodeGen](h
 
 ## Attribution
 
-The concept, design direction, artwork, product decisions, and user testing are mine. The code—including the Swift/SwiftUI source and Python asset scripts—was initially built by me with the help of Claude Code to fix bugs and enhance what I wanted, while I directed the build and made the decisions about what it should do.
-
+I came up with ResponseNYC after noticing that New Yorkers who tag the mayor online get their potholes fixed in hours, while ordinary 311 reports take days. I designed how it works — the borough counters, the promises tracker, the requirement that every claim links to the city's own source — made the artwork, and ran the user testing that led to the onboarding walkthrough. The code was written by Claude, Anthropic's AI. I directed the project; I didn't write the implementation myself.
 ## Licence
 
 MIT — see [LICENSE](LICENSE).
